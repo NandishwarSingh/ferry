@@ -39,6 +39,10 @@ Most of what's needed is public: the D3D12 spec, DXIL docs, and the source of Wi
 
 See [PLAN.md](PLAN.md). It's split into phases A to I, each with steps and a measurable gate.
 
+## Contributing
+
+Help is welcome, even this early. [CONTRIBUTING.md](CONTRIBUTING.md) lists what's useful right now and the rules on code provenance. Questions and ideas go in [Discussions](https://github.com/NandishwarSingh/ferry/discussions).
+
 ## License
 
 LGPL-2.1-or-later, same as Wine, vkd3d-proton and DXMT, so code can move between them. See [LICENSE](LICENSE).

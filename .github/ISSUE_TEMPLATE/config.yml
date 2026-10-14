@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/NandishwarSingh/ferry/discussions
+    about: Ask questions, suggest test games or share D3D12 and Metal notes here.
